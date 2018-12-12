@@ -1,21 +1,11 @@
 {
 	"userList": {
-		"numbOfUser": "3",
+		"numbOfUser": "1",
 		"user": [
 			{
-			"userName": "Levi",
-			"userKey": "1",
-			"balance": "14"
-			},
-			{
-			"userName": "",
-			"userKey": "E258C037AD158BE369C147AE259C037AD158BE369D147BE259C037AD258B0369",
-			"balance": "0"
-			},
-			{
 			"userName": "Ibra",
-			"userKey": "2",
-			"balance": "1"
+			"userKey": "147BE269C047AD258B0369D148BE269C047AD258C036AD148BE269C147AE258C",
+			"balance": "10"
 			}
 		]
 	}

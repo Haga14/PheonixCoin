@@ -1,12 +1,12 @@
 {
-	"block": {
+	"Block": {
 		"blockNumber": "-1",
 		"blockGenTime": "-1",
 		"blockHash": "",
 		"prevBlockHash": "",
 		"nonce": "-1",
 		"numbOfTrans": "0",
-		"transaction": [
+		"Transaction": [
 ]
 	}
 }
